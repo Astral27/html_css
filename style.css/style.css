@@ -1,0 +1,159 @@
+body {
+  color:#40514E;
+  font-family: Merriweather, serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 6em;
+  font-family: Sacramento, cursive;
+  color:#66BFBF;
+  margin-top: 50px;
+  margin-bottom: 0;
+
+}
+
+h2 {
+  font-family: Montserrat, sans-serif;
+  font-size: 2.5em;
+  color:#66BFBF;
+  padding-bottom:10px;
+}
+
+h3 {
+  color:#11999E;
+  font-family: Montserrat, sans-serif;
+  font-size:1.5em;
+  margin-top: 0;
+}
+
+hr {
+  border-style: none;
+  border-color: #EAF6F6;
+  border-top-style: dotted;
+  width: 7%;
+  border-width: 9px;
+  margin:100px auto;
+}
+a{
+  color:#11999E;
+  text-decoration: none;
+  display: inline-block;
+  margin-right:5px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+p{
+  line-height:2;
+}
+.pro {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.top {
+  background-color: #a6e3e9;
+  padding-top: 120px;
+  position: relative;
+}
+
+.mountain {
+  width:60%;
+  padding-top: 90px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 310px;
+  top: 100px;
+}
+
+.middle-cloud {
+  position: absolute;
+  right: 400px;
+  bottom: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+
+}
+.middle-container{
+  margin:50px 0;
+}
+
+.eye {
+  border-radius: 100px;
+  height: 170px;
+  margin-top: 10px;
+}
+
+.web {
+  border-radius: 180px;
+  height: 150px;
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.intro{
+  width:5%;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+.earth{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.fun{
+  width:32%;
+  margin:auto;
+}
+.explore{
+  width:50%;
+  margin:50px auto 100px auto;
+  text-align: right;
+
+}
+.copyright{
+  font-size:0.7em;
+}
+.footer {
+  padding-top:20px;
+  padding-bottom: 10px;
+  background-color:#66BFBF;
+  color:#EAF6F6;
+}
+.BUTTON_SFG {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   font-family: Arial;
+   color:white;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 9px 20px 9px 20px;
+   background-color: #66BFBF;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin:50px auto 50px auto;
+}
+
+.BUTTON_SFG:hover {
+   background: #5B8289;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   text-decoration: none;
+}
